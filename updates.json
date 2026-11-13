@@ -1,24 +1,36 @@
 {
-    "apps":  {
-                 "music":  {
-                               "version":  "1.1.0",
-                               "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.1.0/Aura-Music-Setup-1.1.0.exe",
-                               "notes":  "Синхронизация избранного и плейлистов через Google-аккаунт (с порядком), «Медиатека» в «Вид и звук»."
-                           },
-                 "video":  {
-                               "version":  "1.1.2",
-                               "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/video-v1.1.2/Aura-Video-Setup-1.1.2.exe",
-                               "notes":  "Aura Video для Windows."
-                           },
-                 "cinema":  {
-                                "version":  "1.0.2",
-                                "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/cinema-v1.0.2/Aura-Cinema-Setup-1.0.2.exe",
-                                "notes":  "Чёткий значок в стиле Aura на рабочем столе и в панели задач."
-                            },
-                 "hub":  {
-                             "version":  "1.1.2",
-                             "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/hub-v1.1.2/Aura-Hub-Setup-1.1.2.exe",
-                             "notes":  "Чёткий значок на рабочем столе и в панели задач, новые значки приложений, самообновление Hub."
-                         }
-             }
+  "apps": {
+    "music": {
+      "version": "1.1.0",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.1.0/Aura-Music-Setup-1.1.0.exe",
+      "notes": "Синхронизация избранного и плейлистов через Google-аккаунт (с порядком), «Медиатека» в «Вид и звук»."
+    },
+    "video": {
+      "version": "1.1.2",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/video-v1.1.2/Aura-Video-Setup-1.1.2.exe",
+      "notes": "Aura Video для Windows."
+    },
+    "cinema": {
+      "version": "1.0.2",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/cinema-v1.0.2/Aura-Cinema-Setup-1.0.2.exe",
+      "notes": "Чёткий значок в стиле Aura на рабочем столе и в панели задач."
+    },
+    "hub": {
+      "version": "1.1.2",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/hub-v1.1.2/Aura-Hub-Setup-1.1.2.exe",
+      "notes": "Чёткий значок на рабочем столе и в панели задач, новые значки приложений, самообновление Hub."
+    }
+  },
+  "android": {
+    "music": {
+      "version": "1.1.0",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.1.0/Aura-Music-1.1.0.apk",
+      "notes": "Синхронизация избранного и плейлистов через Google."
+    },
+    "cinema": {
+      "version": "1.0.0",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-cinema-v1.0.0/Aura-Cinema-1.0.0.apk",
+      "notes": "Жанры, подборки, оценки, отзывы, рулетка."
+    }
+  }
 }
