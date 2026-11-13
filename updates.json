@@ -11,14 +11,14 @@
                                "notes":  "Aura Video для Windows."
                            },
                  "cinema":  {
-                                "version":  "1.0.1",
-                                "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/cinema-v1.0.1/Aura-Cinema-Setup-1.0.1.exe",
-                                "notes":  "Новый чёткий значок в стиле Aura."
+                                "version":  "1.0.2",
+                                "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/cinema-v1.0.2/Aura-Cinema-Setup-1.0.2.exe",
+                                "notes":  "Чёткий значок в стиле Aura на рабочем столе и в панели задач."
                             },
                  "hub":  {
-                             "version":  "1.1.1",
-                             "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/hub-v1.1.1/Aura-Hub-Setup-1.1.1.exe",
-                             "notes":  "Новые значки приложений в едином стиле и самообновление Hub."
+                             "version":  "1.1.2",
+                             "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/hub-v1.1.2/Aura-Hub-Setup-1.1.2.exe",
+                             "notes":  "Чёткий значок на рабочем столе и в панели задач, новые значки приложений, самообновление Hub."
                          }
              }
 }
