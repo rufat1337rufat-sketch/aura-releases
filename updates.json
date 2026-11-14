@@ -16,9 +16,9 @@
       "notes": "Рулетка без повторов и быстрое «Ещё раз». «Назад» из похожего фильма возвращает к предыдущему."
     },
     "hub": {
-      "version": "1.1.4",
-      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/hub-v1.1.4/Aura-Hub-Setup-1.1.4.exe",
-      "notes": "В магазине появился Aura Drop."
+      "version": "1.1.5",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/hub-v1.1.5/Aura-Hub-Setup-1.1.5.exe",
+      "notes": "Значок Aura Drop в магазине."
     },
     "drop": {
       "version": "1.0.0",
