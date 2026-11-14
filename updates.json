@@ -11,9 +11,9 @@
       "notes": "Новый значок в стиле Aura."
     },
     "cinema": {
-      "version": "1.1.0",
-      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/cinema-v1.1.0/Aura-Cinema-Setup-1.1.0.exe",
-      "notes": "Синхронизация избранного, просмотренного и оценок с телефоном через Google. Рулетка с настроением и 3D-прокруткой."
+      "version": "1.1.1",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/cinema-v1.1.1/Aura-Cinema-Setup-1.1.1.exe",
+      "notes": "Рулетка без повторов и быстрое «Ещё раз». «Назад» из похожего фильма возвращает к предыдущему."
     },
     "hub": {
       "version": "1.1.3",
@@ -28,9 +28,9 @@
       "notes": "Релизная версия с постоянной подписью Aura."
     },
     "cinema": {
-      "version": "1.1.0",
-      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-cinema-v1.1.0/Aura-Cinema-1.1.0.apk",
-      "notes": "Синхронизация избранного, просмотренного и оценок с ПК через Google."
+      "version": "1.1.1",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-cinema-v1.1.1/Aura-Cinema-1.1.1.apk",
+      "notes": "Рулетка-лента без повторов, исправлен вход через Google."
     }
   }
 }
