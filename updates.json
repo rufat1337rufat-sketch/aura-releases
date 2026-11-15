@@ -16,14 +16,19 @@
       "notes": "Рулетка без повторов и быстрое «Ещё раз». «Назад» из похожего фильма возвращает к предыдущему."
     },
     "hub": {
-      "version": "1.1.6",
-      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/hub-v1.1.6/Aura-Hub-Setup-1.1.6.exe",
-      "notes": "Aura Drop правильно определяется после установки."
+      "version": "1.1.7",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/hub-v1.1.7/Aura-Hub-Setup-1.1.7.exe",
+      "notes": "В магазине появился Aura Snip — снимки и запись видео с экрана."
     },
     "drop": {
       "version": "1.0.0",
       "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/drop-v1.0.0/Aura-Drop-Setup-1.0.0.exe",
       "notes": "Новое приложение: файлы между ПК и телефоном по Wi‑Fi и друзьям — напрямую."
+    },
+    "snip": {
+      "version": "1.2.0",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/snip-v1.2.0/Aura-Snip-Setup-1.2.0.exe",
+      "notes": "Новое приложение: снимки области, окна или экрана, запись видео со звуком, редактор. Ctrl+V в папке — и файл там."
     }
   },
   "android": {
