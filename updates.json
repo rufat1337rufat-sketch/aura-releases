@@ -1,9 +1,9 @@
 {
   "apps": {
     "music": {
-      "version": "1.3.0",
-      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.3.0/Aura-Music-Setup-1.3.0.exe",
-      "notes": "Тема «Чёрная (OLED)», свечение обложки за списком, лента очереди в плеере, подсветка играющей песни, порядок в настройках и плавные переходы."
+      "version": "1.3.1",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.3.1/Aura-Music-Setup-1.3.1.exe",
+      "notes": "Вернулось свечение за обложкой. В 1.3.0: тема «Чёрная (OLED)», свечение обложки за списком, лента очереди в плеере, порядок в настройках."
     },
     "video": {
       "version": "1.1.3",
@@ -33,9 +33,9 @@
   },
   "android": {
     "music": {
-      "version": "1.3.0",
-      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.3.0/Aura-Music-1.3.0.apk",
-      "notes": "Мгновенная перемотка песен с телефона, тема «Чёрная (OLED)», лента очереди в плеере, свечение обложки за списком, шторка с сердечком и виджеты."
+      "version": "1.3.1",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.3.1/Aura-Music-1.3.1.apk",
+      "notes": "Вернулось свечение за обложкой. В 1.3.0: мгновенная перемотка песен с телефона, тема «Чёрная (OLED)», лента очереди, шторка с сердечком и виджеты."
     },
     "cinema": {
       "version": "1.1.1",
