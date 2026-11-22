@@ -1,9 +1,9 @@
 {
   "apps": {
     "music": {
-      "version": "1.3.2",
-      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.3.2/Aura-Music-Setup-1.3.2.exe",
-      "notes": "8D-звук: новые режимы «Восьмёрка» и «В такт». В 1.3: тема «Чёрная (OLED)», свечение обложки, лента очереди в плеере."
+      "version": "1.3.3",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.3.3/Aura-Music-Setup-1.3.3.exe",
+      "notes": "«Остановка плёнки» на паузе и разгон при запуске; зажмите обложку — звук «за стеной»."
     },
     "video": {
       "version": "1.1.3",
@@ -33,9 +33,9 @@
   },
   "android": {
     "music": {
-      "version": "1.3.2",
-      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.3.2/Aura-Music-1.3.2.apk",
-      "notes": "8D-звук снова работает, новые режимы «Восьмёрка» и «В такт»; дыхание обложки слышит музыку."
+      "version": "1.3.3",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.3.3/Aura-Music-1.3.3.apk",
+      "notes": "«Остановка плёнки» на паузе и разгон при запуске; зажмите обложку — звук «за стеной»."
     },
     "cinema": {
       "version": "1.1.1",
