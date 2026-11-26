@@ -1,9 +1,9 @@
 {
     "apps":  {
                  "music":  {
-                               "version":  "1.5.8",
-                               "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.5.8/Aura-Music-Setup-1.5.8.exe",
-                               "notes":  "Перенос плейлистов из Spotify, Яндекс Музыки, Apple Music, YouTube и списком из ВК. Меньше лишней нагрузки: обложка в шапке больше не меняется без конца."
+                               "version":  "1.5.9",
+                               "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.5.9/Aura-Music-Setup-1.5.9.exe",
+                               "notes":  "Синхронизация и «Друзья» больше не упираются в дневной лимит сервера: приложение почти не обращается к нему в фоне."
                            },
                  "video":  {
                                "version":  "1.1.3",
