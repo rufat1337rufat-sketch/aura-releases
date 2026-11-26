@@ -1,9 +1,9 @@
 {
     "apps":  {
                  "music":  {
-                               "version":  "1.5.5",
-                               "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.5.5/Aura-Music-Setup-1.5.5.exe",
-                               "notes":  "Новые настройки для компьютера: окно поверх плеера, разделы слева, поиск настроек, закрываются по Esc и подстраиваются под размер окна. Синхронизация через Google теперь на виду — войди, и избранное с плейлистами не потеряются."
+                               "version":  "1.5.6",
+                               "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.5.6/Aura-Music-Setup-1.5.6.exe",
+                               "notes":  "«Друзья» и синхронизация расходуют в десятки раз меньше запросов к серверу — больше не будут отключаться посреди дня. Если лимит сервера всё же кончился, приложение так и скажет."
                            },
                  "video":  {
                                "version":  "1.1.3",
