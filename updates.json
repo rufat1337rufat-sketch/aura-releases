@@ -33,9 +33,9 @@
              },
     "android":  {
                     "music":  {
-                                  "version":  "1.5.0",
-                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.5.0/Aura-Music-1.5.0.apk",
-                                  "notes":  "Друзья: музыка друзей, чат с фото, голосовыми и песнями, мгновенные уведомления. «Узнать песню» вокруг, клипы в 720p, новый «Онлайн». Обновления теперь приходят прямо в приложении."
+                                  "version":  "1.5.1",
+                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.5.1/Aura-Music-1.5.1.apk",
+                                  "notes":  "Клипы в 1080p на весь экран, без чёрных полос и точно в такт песне. Во время клипа значки прячутся, на паузе возвращаются. Меню песни открывается там, где нажали. Исправлен чарт альбомов."
                               },
                     "cinema":  {
                                    "version":  "1.1.1",
