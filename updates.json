@@ -33,9 +33,9 @@
              },
     "android":  {
                     "music":  {
-                                  "version":  "1.5.7",
-                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.5.7/Aura-Music-1.5.7.apk",
-                                  "notes":  "Музыка снова громкая: «Одинаковая громкость» почти не приглушает громкие песни (максимум на 1,5 дБ), а тихие подтягивает до обычного уровня."
+                                  "version":  "1.5.8",
+                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.5.8/Aura-Music-1.5.8.apk",
+                                  "notes":  "Перенос плейлистов из Spotify, Яндекс Музыки, Apple Music, YouTube и списком из ВК. Музыка плавно стихает на время голосовых и навигатора, а при звонке встаёт на паузу. 8D слышно чётче. Телефон меньше греется, клипы занимают не больше 150 МБ."
                               },
                     "cinema":  {
                                    "version":  "1.1.1",
