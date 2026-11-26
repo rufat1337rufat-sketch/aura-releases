@@ -33,9 +33,9 @@
              },
     "android":  {
                     "music":  {
-                                  "version":  "1.5.1",
-                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.5.1/Aura-Music-1.5.1.apk",
-                                  "notes":  "Клипы в 1080p на весь экран, без чёрных полос и точно в такт песне. Во время клипа значки прячутся, на паузе возвращаются. Меню песни открывается там, где нажали. Исправлен чарт альбомов."
+                                  "version":  "1.5.2",
+                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.5.2/Aura-Music-1.5.2.apk",
+                                  "notes":  "Обновления больше не зависают: если связь прервалась, загрузка продолжается с того же места. Плюс всё из 1.5.1: клипы 1080p на весь экран и в такт песне, значки прячутся во время клипа."
                               },
                     "cinema":  {
                                    "version":  "1.1.1",
