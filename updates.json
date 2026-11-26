@@ -33,9 +33,9 @@
              },
     "android":  {
                     "music":  {
-                                  "version":  "1.5.4",
-                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.5.4/Aura-Music-1.5.4.apk",
-                                  "notes":  "Итоги месяца: в конце месяца — твои минуты музыки, артист и песня месяца, топ-5, когда ты слушаешь и дни подряд; итоги друзей видны в ленте «Друзей» (можно скрыть). Обновления на Xiaomi/Redmi/POCO больше не зависают на «Устанавливаю…»."
+                                  "version":  "1.5.5",
+                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.5.5/Aura-Music-1.5.5.apk",
+                                  "notes":  "Итоги месяца теперь можно открыть в любой момент: «Настройки → Итоги месяца». В конце месяца — карточка на «Музыке» и итоги друзей в ленте «Друзей». Обновления на Xiaomi/Redmi/POCO больше не зависают."
                               },
                     "cinema":  {
                                    "version":  "1.1.1",
