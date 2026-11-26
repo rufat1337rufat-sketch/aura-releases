@@ -33,9 +33,9 @@
              },
     "android":  {
                     "music":  {
-                                  "version":  "1.5.8",
-                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.5.8/Aura-Music-1.5.8.apk",
-                                  "notes":  "Перенос плейлистов из Spotify, Яндекс Музыки, Apple Music, YouTube и списком из ВК. Музыка плавно стихает на время голосовых и навигатора, а при звонке встаёт на паузу. 8D слышно чётче. Телефон меньше греется, клипы занимают не больше 150 МБ."
+                                  "version":  "1.5.9",
+                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.5.9/Aura-Music-1.5.9.apk",
+                                  "notes":  "Синхронизация и «Друзья» больше не упираются в дневной лимит сервера: приложение почти не обращается к нему в фоне. «Друзья» обновляются, когда открыта их вкладка; новые сообщения приходят уведомлениями."
                               },
                     "cinema":  {
                                    "version":  "1.1.1",
