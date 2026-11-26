@@ -33,9 +33,9 @@
              },
     "android":  {
                     "music":  {
-                                  "version":  "1.5.6",
-                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.5.6/Aura-Music-1.5.6.apk",
-                                  "notes":  "«Друзья» и синхронизация расходуют в десятки раз меньше запросов к серверу — больше не будут отключаться посреди дня. Блок «Войти через Google» сразу в настройках. Крестик в итогах месяца больше не прячется под верхнюю панель."
+                                  "version":  "1.5.7",
+                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.5.7/Aura-Music-1.5.7.apk",
+                                  "notes":  "Музыка снова громкая: «Одинаковая громкость» почти не приглушает громкие песни (максимум на 1,5 дБ), а тихие подтягивает до обычного уровня."
                               },
                     "cinema":  {
                                    "version":  "1.1.1",
