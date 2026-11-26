@@ -1,9 +1,9 @@
 {
     "apps":  {
                  "music":  {
-                               "version":  "1.5.7",
-                               "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.5.7/Aura-Music-Setup-1.5.7.exe",
-                               "notes":  "Звук громче: «Одинаковая громкость» не приглушает громкие песни и сильнее подтягивает тихие до обычного уровня."
+                               "version":  "1.5.8",
+                               "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.5.8/Aura-Music-Setup-1.5.8.exe",
+                               "notes":  "Перенос плейлистов из Spotify, Яндекс Музыки, Apple Music, YouTube и списком из ВК. Меньше лишней нагрузки: обложка в шапке больше не меняется без конца."
                            },
                  "video":  {
                                "version":  "1.1.3",
