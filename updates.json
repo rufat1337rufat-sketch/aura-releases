@@ -1,9 +1,9 @@
 {
     "apps":  {
                  "music":  {
-                               "version":  "1.5.9",
-                               "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.5.9/Aura-Music-Setup-1.5.9.exe",
-                               "notes":  "Синхронизация и «Друзья» больше не упираются в дневной лимит сервера: приложение почти не обращается к нему в фоне."
+                               "version":  "1.6.0",
+                               "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.6.0/Aura-Music-Setup-1.6.0.exe",
+                               "notes":  "Новое оформление плеера «Студия» (Настройки → Плеер → Оформление плеера). Чёткие обложки из каталога Apple. Меньше нагрузки, плавное переключение песен."
                            },
                  "video":  {
                                "version":  "1.1.3",
