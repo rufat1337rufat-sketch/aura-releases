@@ -1,51 +1,56 @@
 {
-    "apps":  {
-                 "music":  {
-                               "version":  "1.6.0",
-                               "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.6.0/Aura-Music-Setup-1.6.0.exe",
-                               "notes":  "Новое оформление плеера «Студия» (Настройки → Плеер → Оформление плеера). Чёткие обложки из каталога Apple. Меньше нагрузки, плавное переключение песен."
-                           },
-                 "video":  {
-                               "version":  "1.1.3",
-                               "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/video-v1.1.3/Aura-Video-Setup-1.1.3.exe",
-                               "notes":  "Новый значок в стиле Aura."
-                           },
-                 "cinema":  {
-                                "version":  "1.1.1",
-                                "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/cinema-v1.1.1/Aura-Cinema-Setup-1.1.1.exe",
-                                "notes":  "Рулетка без повторов и быстрое «Ещё раз». «Назад» из похожего фильма возвращает к предыдущему."
-                            },
-                 "hub":  {
-                             "version":  "1.1.7",
-                             "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/hub-v1.1.7/Aura-Hub-Setup-1.1.7.exe",
-                             "notes":  "В магазине появился Aura Snip — снимки и запись видео с экрана."
-                         },
-                 "drop":  {
-                              "version":  "1.0.0",
-                              "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/drop-v1.0.0/Aura-Drop-Setup-1.0.0.exe",
-                              "notes":  "Новое приложение: файлы между ПК и телефоном по Wi‑Fi и друзьям — напрямую."
-                          },
-                 "snip":  {
-                              "version":  "1.2.0",
-                              "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/snip-v1.2.0/Aura-Snip-Setup-1.2.0.exe",
-                              "notes":  "Новое приложение: снимки области, окна или экрана, запись видео со звуком, редактор. Ctrl+V в папке — и файл там."
-                          }
-             },
-    "android":  {
-                    "music":  {
-                                  "version":  "1.6.3",
-                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.6.3/Aura-Music-1.6.3.apk",
-                                  "notes":  "Звук идёт в подключённые наушники, Bluetooth-колонку и машину, даже если телефон (Samsung) оставлял его в динамике."
-                              },
-                    "cinema":  {
-                                   "version":  "1.1.1",
-                                   "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-cinema-v1.1.1/Aura-Cinema-1.1.1.apk",
-                                   "notes":  "Рулетка-лента без повторов, исправлен вход через Google."
-                               },
-                    "drop":  {
-                                 "version":  "1.0.0",
-                                 "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-drop-v1.0.0/Aura-Drop-1.0.0.apk",
-                                 "notes":  "Отправка файлов на компьютер и друзьям."
-                             }
-                }
+  "apps": {
+    "music": {
+      "version": "1.6.0",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/music-v1.6.0/Aura-Music-Setup-1.6.0.exe",
+      "notes": "Новое оформление плеера «Студия» (Настройки → Плеер → Оформление плеера). Чёткие обложки из каталога Apple. Меньше нагрузки, плавное переключение песен."
+    },
+    "video": {
+      "version": "1.1.3",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/video-v1.1.3/Aura-Video-Setup-1.1.3.exe",
+      "notes": "Новый значок в стиле Aura."
+    },
+    "cinema": {
+      "version": "1.1.1",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/cinema-v1.1.1/Aura-Cinema-Setup-1.1.1.exe",
+      "notes": "Рулетка без повторов и быстрое «Ещё раз». «Назад» из похожего фильма возвращает к предыдущему."
+    },
+    "hub": {
+      "version": "1.1.7",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/hub-v1.1.7/Aura-Hub-Setup-1.1.7.exe",
+      "notes": "В магазине появился Aura Snip — снимки и запись видео с экрана."
+    },
+    "drop": {
+      "version": "1.0.0",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/drop-v1.0.0/Aura-Drop-Setup-1.0.0.exe",
+      "notes": "Новое приложение: файлы между ПК и телефоном по Wi‑Fi и друзьям — напрямую."
+    },
+    "snip": {
+      "version": "1.2.0",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/snip-v1.2.0/Aura-Snip-Setup-1.2.0.exe",
+      "notes": "Новое приложение: снимки области, окна или экрана, запись видео со звуком, редактор. Ctrl+V в папке — и файл там."
+    }
+  },
+  "android": {
+    "music": {
+      "version": "1.6.3",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.6.3/Aura-Music-1.6.3.apk",
+      "notes": "Звук идёт в подключённые наушники, Bluetooth-колонку и машину, даже если телефон (Samsung) оставлял его в динамике."
+    },
+    "cinema": {
+      "version": "1.1.1",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-cinema-v1.1.1/Aura-Cinema-1.1.1.apk",
+      "notes": "Рулетка-лента без повторов, исправлен вход через Google."
+    },
+    "drop": {
+      "version": "1.0.0",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-drop-v1.0.0/Aura-Drop-1.0.0.apk",
+      "notes": "Отправка файлов на компьютер и друзьям."
+    },
+    "converter": {
+      "version": "1.0.0",
+      "url": "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-converter-v1.0.0/Aura-Converter-1.0.0.apk",
+      "notes": "Новое приложение: конвертер валют, криптовалют и металлов. Графики, калькулятор, темы."
+    }
+  }
 }
