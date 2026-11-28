@@ -33,9 +33,9 @@
              },
     "android":  {
                     "music":  {
-                                  "version":  "1.6.0",
-                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.6.0/Aura-Music-1.6.0.apk",
-                                  "notes":  "Новое оформление плеера «Студия»: обложка на весь экран (Настройки → Плеер → Оформление плеера). Чёткие обложки из каталога Apple. Меньше нагрузки и нагрева. Плавное переключение песен без мусора на экране."
+                                  "version":  "1.6.1",
+                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.6.1/Aura-Music-1.6.1.apk",
+                                  "notes":  "Исправлено: в машине и по Bluetooth музыка могла остаться почти без звука или на паузе после сигнала подключения."
                               },
                     "cinema":  {
                                    "version":  "1.1.1",
