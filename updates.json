@@ -33,9 +33,9 @@
              },
     "android":  {
                     "music":  {
-                                  "version":  "1.6.1",
-                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.6.1/Aura-Music-1.6.1.apk",
-                                  "notes":  "Исправлено: в машине и по Bluetooth музыка могла остаться почти без звука или на паузе после сигнала подключения."
+                                  "version":  "1.6.2",
+                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.6.2/Aura-Music-1.6.2.apk",
+                                  "notes":  "Исправлен звук в машине и по Bluetooth: убрано приглушение музыки при голосовых, звуком снова управляет плеер, как раньше."
                               },
                     "cinema":  {
                                    "version":  "1.1.1",
