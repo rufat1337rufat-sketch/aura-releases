@@ -33,9 +33,9 @@
              },
     "android":  {
                     "music":  {
-                                  "version":  "1.6.2",
-                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.6.2/Aura-Music-1.6.2.apk",
-                                  "notes":  "Исправлен звук в машине и по Bluetooth: убрано приглушение музыки при голосовых, звуком снова управляет плеер, как раньше."
+                                  "version":  "1.6.3",
+                                  "url":  "https://github.com/rufat1337rufat-sketch/aura-releases/releases/download/android-music-v1.6.3/Aura-Music-1.6.3.apk",
+                                  "notes":  "Звук идёт в подключённые наушники, Bluetooth-колонку и машину, даже если телефон (Samsung) оставлял его в динамике."
                               },
                     "cinema":  {
                                    "version":  "1.1.1",
